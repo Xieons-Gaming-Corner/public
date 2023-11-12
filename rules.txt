@@ -1,0 +1,29 @@
+## The current Xieon's Gaming Corner Settings and Rules for our tra THIS IS debots:
+# Still updataing, work in progres, not finished.
+
+## Tournaments 
+- You cannot use these pokemon in officail Pokemon Company tournamanets, or tournaments sanctioned by the Pokemon Company, or Nindento, or Game Freak - this is against the tournament rules
+
+## Ogerpon
+- There is no need for more than 4 ogerpons, because you need the mask and each one is different
+- **USERS ARE LIMITED TO 4 OGERPONS FROM THE TRADE BOT - EXCEPT FOR PRENIUM MEMBERS**
+
+**PUNISHABLE OFFENSES**
+The following can get your bot perms suspended for a specific or indefiniate amount of time, or have you banned from the server
+- Violating cooldown multiple times when matching with the bot and a cooldown is active 
+- Bot abuse - Activity with the bot that negatively affects its usage or users
+- Cycling Pools - Trading the same pokemon your just got back to cycle through to get what you want 
+- PK9 file manipulation - Manipulating a pk9 file and trading with the bot that has a negative or illegal outcome. 
+- Trying to gen or regen from a pk9 illegal pokemon / shiny locked pokemon / pokemon not yet in SV
+- Uptrading & Personal Gain:
+* * This does **not** mean you can't trade the pokemon from us, but you can't be doing things that go against the principles of XGC. If you gen a bunch of Ogerpons to use on home thats pretty scummy first of all, and you will get banned. You can still trade with other members,
+
+Cooldown on commands in trade channel: 
+- Premium members will never have a cooldown of more than 1/2 of the public trade command cooldown. 
+- The public command cooldown will be variable depending on what the bot is doing.
+
+
+Home Tracking
+- The bot will not create a pokemon without a home tracker. If there is no Legal Possible Encounter to create such a pokemon. (Example: You can gen Phione since its an egg hatch, or mewtwo since it was added, but you can't create Victini.
+
+## Additional Staff Notes - Real Time Rules In Place - 
