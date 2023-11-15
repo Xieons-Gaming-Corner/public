@@ -1,29 +1,60 @@
-## The current Xieon's Gaming Corner Settings and Rules for our tra THIS IS debots:
-# Still updataing, work in progres, not finished.
+1. Praise Breloom: The God of Sus
+Many a battle, the Great Breloom - God of the Spore - has guided us to victory and swift defeat over our foes. PRAISE THE BRELOOM - THE HIGHEST OF ALL SHROOMS IN THE POKEMON WORLD!
 
-## Tournaments 
-- You cannot use these pokemon in officail Pokemon Company tournamanets, or tournaments sanctioned by the Pokemon Company, or Nindento, or Game Freak - this is against the tournament rules
+2. Staff Authority and User Interactions
+Please listen to the staff. Punishments and interpretations of rules are at the discretion of the moderators. If you wish to appeal a decision, open a staff complaint ticket for admin review. Conversations held in DMs between staff and users are considered invalid.
 
-## Ogerpon
-- There is no need for more than 4 ogerpons, because you need the mask and each one is different
-- **USERS ARE LIMITED TO 4 OGERPONS FROM THE TRADE BOT - EXCEPT FOR PRENIUM MEMBERS**
+3. Maturity, Age Requirements, and Conduct
+This is a mature server. We have an adult-only section for 18+ members with age-restricted content. You must opt-in to view it. You must be 13 years old to participate in any channel within the server, in accordance with US Law and Discord TOS.
 
-**PUNISHABLE OFFENSES**
-The following can get your bot perms suspended for a specific or indefiniate amount of time, or have you banned from the server
-- Violating cooldown multiple times when matching with the bot and a cooldown is active 
-- Bot abuse - Activity with the bot that negatively affects its usage or users
-- Cycling Pools - Trading the same pokemon your just got back to cycle through to get what you want 
-- PK9 file manipulation - Manipulating a pk9 file and trading with the bot that has a negative or illegal outcome. 
-- Trying to gen or regen from a pk9 illegal pokemon / shiny locked pokemon / pokemon not yet in SV
-- Uptrading & Personal Gain:
-* * This does **not** mean you can't trade the pokemon from us, but you can't be doing things that go against the principles of XGC. If you gen a bunch of Ogerpons to use on home thats pretty scummy first of all, and you will get banned. You can still trade with other members,
+4. Harassment and Respect
+Harassment is taken very seriously on this server. We encourage friendly banter but strictly prohibit harassment bordering on criminal activity. Higher-ranking staff members have the power to overrule decisions, but arguing with staff is not permitted.
 
-Cooldown on commands in trade channel: 
-- Premium members will never have a cooldown of more than 1/2 of the public trade command cooldown. 
-- The public command cooldown will be variable depending on what the bot is doing.
+5. Reporting Incidents and Communication
+If you feel unsafe or uncomfortable in any situation, open a support ticket. All staff can access support tickets by default. If you have an issue with a specific staff member, inform Rich or myself privately, and we'll restrict access to the ticket to only admins.
 
+6. Advertising, Self-Promotion, and Suggestions
+Advertising will be addressed case-by-case. Self-promotion may be allowed, provided you open a ticket and discuss it with staff first. Advertising without staff consultation will be treated as a violation. If you have suggestions, submit your ideas through a support ticket.
 
-Home Tracking
-- The bot will not create a pokemon without a home tracker. If there is no Legal Possible Encounter to create such a pokemon. (Example: You can gen Phione since its an egg hatch, or mewtwo since it was added, but you can't create Victini.
+7. Selling Pokémon, Violating Partnered Servers' Rules, and Zero-Tolerance
+Selling Pokémon acquired through XGC or our partnered servers is absolutely unacceptable. Violations of XGC's Partners and Friends Servers will result in punishment within our server as well. We hold a zero-tolerance stance for violations of hard-line policies.
 
-## Additional Staff Notes - Real Time Rules In Place - 
+8. New Roles, Role Set Assistance, and Exclusive Bot Rules
+Introducing two new roles—Bot Enthusiasts and Banned from Bot. Every user interacting with our bots will eventually require one of these roles. If you encounter challenges obtaining these roles or have questions, open a support ticket. There will be a future cutoff for users to claim the Bot Enthusiast role.
+
+9. Phone Verification, Minimum Age Requirements, and Mature Content
+Due to past severe situations, XGC's staff has implemented a phone verification system. The server has a minimum age limit of 13 to comply with US Law. This server features mature content, with channels ranging from PG13 to 17-rated content. There will be swearing, banter, etc.
+
+10. Giveaway Rules and Staff Winning Lotteries
+All members are eligible for giveaways. To claim your prize, collect it or open a prize claim support ticket within 48 hours of the giveaway ending. If a staff member wins a giveaway, we will strive to provide that staff member with a copy of the prize, along with another user. We will indicate in the giveaway announcement if this is the case.
+
+11. Staff in Tournaments and Competitive Environment
+Owner and staff members are welcome to participate in tournaments. Skill is the determining factor. Fair play is emphasized, and Pokémon tournaments follow guidelines to ensure an inclusive competitive environment.
+
+12. Fair Play and Pokémon Tournaments
+The community is dedicated to fostering a fair and inclusive competitive environment for all Pokémon trainers. "Generated" Pokémon for personal matches are allowed, as long as both participants agree. However, "generated" Pokémon are prohibited in official tournaments to align with Terms of Service and tournament policies.
+
+13. Community Values: Cooperation and Participation
+Two important cornerstones are helping each other and refraining from greed or entitlement. Cooperation and participation are valued, and behavior contradicting these values may result in punitive action.
+
+14. Respecting Others' Time
+Not respecting others' time, such as asking for help and not following advice, may result in a timeout and a temporary loss of bot privileges. Staff members have the right to take action if their time is wasted.
+
+15. Disputes and Ticket Resolution
+If you have issues or disputes, open a support ticket. Staff will address your concerns in a ticket, and communication through DMs with staff is discouraged. Ticket communication ensures transparency and proper resolution.
+
+16. Ownership Verification and Permissions
+For certain commands or actions, ownership verification may be required. Ensure the owner's Discord ID matches the one specified in the designated file. Unauthorized access may result in consequences.
+
+17. Discord Server Rules Repository
+All rules and guidelines are available in a public repository on GitHub for transparency and accessibility. Users are encouraged to review and understand these rules for a positive community experience.
+
+18. External Links and Resources
+Sharing external links or resources must align with the server's ethos. Consideration should be given to the content's relevance, appropriateness, and potential impact on the community.
+
+19. Server-Related Discussions and Feedback
+Discussions about server-related matters and feedback should be directed to the appropriate channels or support tickets. Public discussions ensure community involvement, and constructive feedback is valued.
+
+20. Bot Commands and Usage
+Users are encouraged to explore and use bots within the designated channels. However, misuse, spam, or disruptive bot behavior may result in warnings or restrictions. Familiarize yourself with bot-specific rules and guidelines.
+
