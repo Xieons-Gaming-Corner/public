@@ -1,1 +1,12 @@
-as
+# Xieon's Gaming Corner Twitch Community Rules/Settings
+
+Re: Clips
+Enable Clips: On
+Excluded Categories: None
+Followers Only May make Clips
+
+"Feature This Clip Setting": Toggled On Moderators
+"Streamers and editors can feature clips by default. Enable other channel roles to feature clips of your channel. Users will be notified when they receive permissions.":  
+
+"share this clip" setting toggled on
+"This setting defaults the “Feature This Clip” toggle to “on” when creating a clip of your channel so you can easily create and feature clips in one step. Turn this off if you prefer to manually check the toggle when creating clips."
