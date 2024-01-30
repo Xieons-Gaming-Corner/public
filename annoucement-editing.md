@@ -85,3 +85,11 @@ Thank you endlessly to the 1300+ people who followed XGC on Twitch - It was a di
 > * * **Server Boosting**: @💖✅ Sableye-Mega (Server Booster) 💖  - 
 > * * **Direct Donations** : #🙏➖donations 
 > * * **Cheering and Subscring on Twitch.tv/xieon using bits - make sure to link your discord and Twitch accounts and claim the linked role because XGC benefits follow you between platforms if you're a supporter/premium 
+
+## 1000 Members and Discord Partnership
+We are getting very close to this, and as much as we would have liked to hit this milestone earlier, I have every confidence we'll surpass 1000 officially shortly and certainly by our 1st anniversary - A milestone unlike the previous milestones - this time we're celebrating joining a new club within discord the 4 digit members club - And with that - we'll have the opportunity and will be applying for Discord Partnership - 
+
+We appreciate all of our members - from the most active (check the leaderboard with %rank in #:person_lifting_weights::heavy_minus_sign:trainer-server-level ), those who recently posted @✅Celebi (Recently Posted) to those first 100 members of which 88 or so are still members - @💰Aether V.C. . who might have been lurking since they joined - but they are still here with us - 
+
+We especially appreciate all of our @💖Premium Members 💖  - if you support us directly - through server subs @:sparkling_heart::white_check_mark:Mewtwo (SubTier1) purchase a #✅➖serverdex-project  @📕Original Dex Entry Author💕 @💖Twitch (Sub) 💖 or @💖✅ Sableye-Mega (Server Booster) 💖   it's because of you guys that we're able to pay for this expensive project - but the return on investment in terms of Pokemon given out, raids hosted, friends made, and smiles caused makes it worth it.
+
