@@ -53,3 +53,35 @@ And last, but certainly not least, those in #🤝➖xgc-partners
 If you have a domain name from my website - it's obvious the respect, and appreciation I have for you without saying anything else. I recommend to check those 4 out if you haven't - additionally - some content is run exclusively for members of both Blaines and XGC, such as TCG Card Packs - being a member of both may be required for a small amount of our giveaways.
 
 And finally...  @b... - I owe you a personal thank you, and i may not be able to ever put this properly i to words - But I've looked up to you for years - and not only have you and your staff such as @s... and @d... been some of the best friends I've made - you supported/treated me as an equal - put trust in me - and you've supported me in private when I ask things like "how do you manage the stress" - and I appreciate that someone as busy as you was willing to help me grow, play with your community in terms of giveaways, but help me in terms of a mentor - and I have, and will continue to be appreciative and have your back, as I have had, as we all continue on our own journey down similar paths -
+
+
+
+
+
+-------------------------
+
+
+FINAL DRAFT: EDITED WITH THE CORRECT @'s and fixed all spelling and gammar from Rich's version above: 
+
+
+Part 1: 
+
+# ONE MONTH - 3 THINGS WORTHY OF CELEBRATION - 
+
+Granted I'm very busy with everything already but the staff here are attempting to make the next month include some special content and experiences so that when the community hits milestones like this it's not - hey look what Xieon did - it's looking at what this community has become - and as always I reward those who have faith in the vision i wish to create - have stuck around - and allowed us to reach the three milestones of celebration for February, for which we will be trying to make as celebratory as possible. 
+
+## #1 TWITCH AFFILIATES
+Thank you to everyone helwho a sandbox to play around and dev in - I already have a Twitch Developer account and developer tokens, and I intend to integrate Raids and Trades alongside Twitch in the coming weeks/months. This is more difficult for me than Discord features - but now that I have the access to do what I want without limitation I should be able to have some cool features that are directly tied in with our channel points "XGC Sus Coins" - 
+
+Thank you endlessly to the 1300+ people who followed XGC on Twitch - It was a difficult road to affiliate because of streaming 24/7 - it was tough to make the view average work out since there was long period where the bot crashed and there was 0 viewers, tanking the average - and it took a lot more time and viewers to move the average a small amount - I streamed several thousand hours - have 1300 follows, I only needed 50 - its the nature of the content. And whil this shouldn't be exciting - the struggle to get to this stage when by all accounts we should've had it after streaming an entire month straight has been hard - now that we finally have it, we can finally implement the following features to the streams:
+> * Sysbot X Twitch Intergration
+> * XGC Developed a proprietary Twitch Bot using Twitch's API to Sync with Channel points
+**SUBSCRIPTIONS & AMAZON PRIME SUBSCRIPTIONS**
+> * You **can now support XGC by subscribing on Twitch** 
+> * You **CAN USE YOUR FREE AMAZON PRIME SUB to Sub on Twitch to support us**
+> * Link your Twitch and Discord Account then Claim the Linked Role because benefits for supporters follow you between platforms - a Twitch Subscriber gets Tier 1 Discord Perks (you should probably link your YT too) Even if you don't sub-following and watch the stream while having your account linked can give you bot passive bot buffs
+**DONATIONS**
+> * You can support XGC by donating with Bits, or by cheering with Bits in addition to
+> * * **Server Boosting**: @💖✅ Sableye-Mega (Server Booster) 💖  - 
+> * * **Direct Donations** : #🙏➖donations 
+> * * **Cheering and Subscring on Twitch.tv/xieon using bits - make sure to link your discord and Twitch accounts and claim the linked role because XGC benefits follow you between platforms if you're a supporter/premium 
