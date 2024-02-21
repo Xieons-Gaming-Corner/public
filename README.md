@@ -1,6 +1,6 @@
 # This repository holds publically available information -
 * This information has been either made available to the public already 
-* Or we believe this information should be shared with the public.
+* Or we believe this information should be shared with the public. Feel free to utilize our versions or the mighty, jumbo and mini mark uploads
   
 # Xieon's Gaming Corner 
 * [Xieon's Gaming Corner Discsord](http://discord.gg/xieon)
