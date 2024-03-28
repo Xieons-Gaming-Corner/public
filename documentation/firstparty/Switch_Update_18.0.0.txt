@@ -1,0 +1,56 @@
+Nintendo Switch Had an update on the 27th of March - which brough it's firmware up to 18.0.0 and now uses the SDK version of 18.2 through 18.4. 
+Mirrored to XGC by Xieon from https://yls8.mtheall.com/ninupdates/updatedetails.php?date=2024-03-26_00-06-36&sys=hac
+------------------------------------------------------------
+
+Homepage -> Switch 18.0.0 report -> Update details
+
+
+Update-details generation datetime: 2024-03-26 00:39:48+00:00
+
+SystemVersion:
+Version: 18.0.0 (0, -4, 0x5-0x7=0 0 0)
+Platform: NX
+Hex ASCII string: 12dd67abcd6e05f44dc8a526e5af9c1f14202c8b
+Version string: 18.0.0
+Full version string: NintendoSDK Firmware for NX 18.0.0-4.0
+Sysver digest file: CusHY#00120000#U531L4Si9RbhOVeyVppe18WHkJ0k4_KzrNtygsekMNo=
+
+
+RebootlessSystemUpdateVersion:
+Version: 38
+DisplayVersion: 38
+
+
+BootImagePackage:
+Using master-key: master_key_11
+Total retail blown fuses: 19
+Total devunit blown fuses: 1
+
+
+SDK versions:
+
+18.2.0.0
+18.2.2.0
+18.3.0.0
+
+
+NCA Master Key Revision used by non-Meta content:
+
+0x0 (1.0.0-2.3.0)
+0x11 (Unknown)
+
+
+bluetooth-sysmodule:
+bsa_version_string: BSA0106_01.60.00_
+bsa_version_info_string: Hayward_T3_RC_20210224
+Config string: BCM4356A3 UART 37.4 MHz wlbga_bu
+
+
+wlan-sysmodule:
+Firmware string: 4356a3-roml/pcie-ag-msgbuf-splitrx-pktctx-keepalive-sr-proptxstatus-ampduhostreorder-dlystat-rxdesens-clm_4356a3_ntd-noclminc-ntdds3-btcdyn-trfmgmt-pspretend-btafh-pktfilter-wowlpf-gtkoe-aoe-tcpkaoe-aloe Version: 7.35.252.108 (c216b7c) CRC: 1be69227 Date: Sun 2021-08-29 19:24:39 PDT Ucode Ver: 1020.228 FWID 01-65333037
+
+
+
+The titles' .*info files are now available (title descriptions were also updated if needed/successful), see the report title-listing.
+
+Started sysmodule SwIPC-generation task. Output will be available with the above .info files via the report title-listing page, this will take a while to finish for all sysmodules.
