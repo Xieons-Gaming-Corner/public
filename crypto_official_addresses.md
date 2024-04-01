@@ -43,3 +43,10 @@ The official wallet address for Xieons Gaming Corner, and it's associated NFT pr
 
 ## Full Disclosure
 > * There are currently 3 existing NFT's minted from a different wallet - those NFT's will be reminted under this collection, the old ones will be burnt.
+# XGCW Collection (Xieon's Gaming Corner Waifu NFT Collection)
+Official XGCW Collection on Rarible: https://rarible.com/xgcw/items
+* "Carmine from Pokemon SV - The Teal Mask" - Image #1 - Set #1 - [View on Rarible](https://rarible.com/token/polygon/0xc29cd576362571b5d3d1846866fab8e0f90776d8:54092221942149369639754547021405922596816131466972834655536597005844483145729)
+* "Sunflora" - Image #2 Set #1 - [View on Rarible](https://rarible.com/token/polygon/0xc29cd576362571b5d3d1846866fab8e0f90776d8:54092221942149369639754547021405922596816131466972834655536597005844483145730)
+* Carmine (Pokemon Character Fanart) - Image #3, Set #1 wearing SFW Light BDSM Attire: [View on Rarible](https://rarible.com/token/polygon/0xc29cd576362571b5d3d1846866fab8e0f90776d8:54092221942149369639754547021405922596816131466972834655536597005844483145731)
+* "Baby Breloom" - Image #4 Set #1 - [View on Rarible](https://rarible.com/token/polygon/0xc29cd576362571b5d3d1846866fab8e0f90776d8:54092221942149369639754547021405922596816131466972834655536597005844483145734?tab=properties)
+* "Beautiful Mewtwo" - Image #5 Set #1 - [View on Rarible](https://rarible.com/token/polygon/0xc29cd576362571b5d3d1846866fab8e0f90776d8:54092221942149369639754547021405922596816131466972834655536597005844483145735)
