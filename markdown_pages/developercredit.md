@@ -1,7 +1,7 @@
 # Fast Travel
 * RETURN TO PUBLIC README: [Back to README](../README.md)
 * RETURN TO MAIN ORGANIZATION PAGE README.MD: [Back to Repository README](https://github.com/Xieons-Gaming-Corner)
-* DEVELOPER CREDIT README: [Link to developercredit.md](https://github.com/Xieons-Gaming-Corner/public/blob/main/markdown_pages/developercredit.md)
+* DEVELOPER CREDIT README: [Link to Special Developer Credit/Thanks](https://github.com/Xieons-Gaming-Corner/public/blob/main/markdown_pages/developercredit.md)
 
 
 
