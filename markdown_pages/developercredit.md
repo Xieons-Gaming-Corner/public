@@ -3,7 +3,7 @@ RETURN TO PUBLIC README:
 [Back to README](../README.md)
 
 RETURN TO MAIN ORGANIZATION PAGE README.MD:
-[Back to README](https://github.com/Xieons-Gaming-Corner/README.md)
+[Back to Repository README](https://github.com/Xieons-Gaming-Corner)
 
 
 
