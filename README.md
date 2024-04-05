@@ -8,6 +8,9 @@
 * [Xieon's Gaming Corner on YouTube](http://yt.xieon.co)
 * [Xieon's Gaming Corner on X (formerly Twitter)](https://twitter.com/XieonGaming)
 
+# Cryptocurrency and technology 
+* [Crypto Tools & Official Links](https://github.com/Xieons-Gaming-Corner/public/blob/main/cryptotools.md)
+
 ## Some material may include, but not limited to only: 
 ### Ban Lists   
 - One of the prime examples of this is the Ban Lists that are implemented on our bots - we will attemptt to have the repositority updated with the latest bans, and have a link available for users to check if they are afraid they may have beeen banned. 
