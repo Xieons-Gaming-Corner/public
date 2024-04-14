@@ -1,0 +1,4 @@
+# THE DISTURBING TRUTH ABOUT A DISCORD OWNER AND ADMIN -= 
+This is an incredibly disturbing story - but one that needs to be told - for not only is this fictional story a lesson in some of the things that many would otherwise hear - the author of this story is telling a story - at a risk to himself, because he feels there are many others who suffer similar fates to those stories' characters and their only chance of ever telling their story, even if through the words and POV of a fictional Discord Admin of a Pokemon Gaming Server, the main character of the story below, Xieon. If Xieon's story has any basis in reality - and it's able to help anyone also suffering - I'm sure that is enough for Xieon to put this fictional story as a public release.
+
+## ```**DO NOT BELIEVE ANYTHING DAVE / XIEON SAYS - HE IS A LIAR, A CON-ARTIST, and A SCUM BAG - HE SHOULD NEVER BE TRUSTED - ESPECIALLY AT FACE VALUE**```
