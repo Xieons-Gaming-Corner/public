@@ -1,4 +1,3 @@
-
 # A Preview of The Life of a Pokémon Discord Admin: The Incredibly Difficult Story to Tell
 
 *Disclaimer: This is a rough draft. Any resemblance to real-life characters is purely coincidental. This work is fictional and should not be interpreted as reflecting real events or individuals. Please note: Parts of this book are based on real events, with minimal alterations made to protect the identities of those involved.*
@@ -55,4 +54,8 @@ Though the road ahead may be fraught with obstacles, Xieon embraces the journey 
 
 ## Chapter 13: The Hope for Tomorrow
 
-Despite the darkness that surrounds him, Xieon clings to a glimmer of hope—a beacon of light in the darkest of nights. He remains steadfast in his belief that, no matter how dire the circumstances may seem, there is always the possibility of a brighter tomorrow. Despite his best efforts to hold on to hope, he finds himself plagued by doubts and uncertainties, as he struggles to find
+Despite the darkness that surrounds him, Xieon clings to a glimmer of hope—a beacon of light in the darkest of nights. He remains steadfast in his belief that, no matter how dire the circumstances may seem, there is always the possibility of a brighter tomorrow. Despite his best efforts to hold on to hope, he finds himself plagued by doubts and uncertainties, as he struggles to find a way forward in a world that seems determined to drag him down.
+
+## Chapter 14: The Sting of False Accusations
+
+In a cruel twist of fate, Xieon's trust is shattered once again when he confides in his best friend about a delicate situation involving a young member of the community. Instead of offering support, his words are twisted and manipulated, painting Xieon as a predator of children. The vicious slander spreads like wildfire, tarnishing his reputation and leaving him branded as a pariah in the eyes of his
