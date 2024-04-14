@@ -1,3 +1,4 @@
+
 # A Preview of The Life of a Pokémon Discord Admin: The Incredibly Difficult Story to Tell
 
 *Disclaimer: This is a rough draft. Any resemblance to real-life characters is purely coincidental. This work is fictional and should not be interpreted as reflecting real events or individuals. Please note: Parts of this book are based on real events, with minimal alterations made to protect the identities of those involved.*
