@@ -1,9 +1,4 @@
-# THE DISTURBING TRUTH ABOUT A DISCORD OWNER AND ADMIN -= 
-This is an incredibly disturbing story - but one that needs to be told - for not only is this fictional story a lesson in some of the things that many would otherwise hear - the author of this story is telling a story - at a risk to himself, because he feels there are many others who suffer similar fates to those stories' characters and their only chance of ever telling their story, even if through the words and POV of a fictional Discord Admin of a Pokemon Gaming Server, the main character of the story below, Xieon. If Xieon's story has any basis in reality - and it's able to help anyone also suffering - I'm sure that is enough for Xieon to put this fictional story as a public release.
-
-## ```**DO NOT BELIEVE ANYTHING DAVE / XIEON SAYS - HE IS A LIAR, A CON-ARTIST, and A SCUM BAG - HE SHOULD NEVER BE TRUSTED - ESPECIALLY AT FACE VALUE**```
 # A Preview of The Life of a Pokémon Discord Admin: The Incredibly Difficult Story to Tell
-
 
 *Disclaimer: This is a rough draft. Any resemblance to real-life characters is purely coincidental. This work is fictional and should not be interpreted as reflecting real events or individuals. Please note: Parts of this book are based on real events, with minimal alterations made to protect the identities of those involved.*
 
@@ -11,62 +6,56 @@ This is an incredibly disturbing story - but one that needs to be told - for not
 
 ## Chapter 1: The Struggle Begins
 
-Dave, known as Xieon, embarks on a journey through the tumultuous world of online gaming, where his passion for Pokémon collides with the harsh realities of admin life.
+Dave, known as Xieon, embarks on a journey through the tumultuous world of online gaming, where his passion for Pokémon collides with the harsh realities of admin life. He starts off in a thriving server, where he dedicates himself to fostering a positive community centered around his love for Pokémon.
 
 ## Chapter 2: Betrayal and Despair
 
-Betrayed by those he once trusted, Xieon finds himself drowning in a sea of deception and manipulation. His best friend and server co-owner covers up his girlfriend's infidelity, leaving Xieon shattered and alone.
+Betrayed by those he once trusted, Xieon finds himself drowning in a sea of deception and manipulation. His best friend and server co-owner covers up his girlfriend's infidelity, leaving Xieon shattered and alone. Despite his years of dedication to the server, he is forced to leave after enduring months of abuse and mistreatment.
 
 ## Chapter 3: Grappling with Hopelessness
 
-As the weight of betrayal bears down on him, Xieon struggles to find solace amidst the chaos. He battles crippling feelings of hopelessness and despair, haunted by past traumas and the specter of his own mortality.
+As the weight of betrayal bears down on him, Xieon struggles to find solace amidst the chaos. He battles crippling feelings of hopelessness and despair, haunted by past traumas and the specter of his own mortality. Despite his best efforts, he finds himself isolated and alone, with nowhere to turn for support.
 
 ## Chapter 4: Seeking Refuge
 
-Amidst the turmoil, Xieon seeks refuge in the companionship of his loyal service dog and the cold steel of his gun. His closest friends have become his dog and his gun, providing fleeting moments of respite from the relentless storm raging within.
+Amidst the turmoil, Xieon seeks refuge in the companionship of his loyal service dog and the cold steel of his gun. His closest friends have become his dog and his gun, providing fleeting moments of respite from the relentless storm raging within. Yet, even in these moments of solace, he is plagued by the relentless torment of his existence.
 
 ## Chapter 5: Navigating the Darkness
 
-Haunted by the ghosts of his past and the uncertainty of his future, Xieon navigates the murky depths of despair. He struggles to differentiate between friend and foe, as paranoia and mistrust consume his every thought.
+Haunted by the ghosts of his past and the uncertainty of his future, Xieon navigates the murky depths of despair. He struggles to differentiate between friend and foe, as paranoia and mistrust consume his every thought. Despite his best efforts to rebuild his life, he finds himself trapped in a cycle of abuse and manipulation, unable to break free from the darkness that threatens to consume him.
 
 ## Chapter 6: The Temptation of Escape
 
-As despair threatens to consume him, Xieon is tempted by the seductive promise of oblivion. The allure of escape beckons like a siren's call, offering temporary relief from the relentless torment of his existence.
+As despair threatens to consume him, Xieon is tempted by the seductive promise of oblivion. The allure of escape beckons like a siren's call, offering temporary relief from the relentless torment of his existence. Yet, even as he teeters on the brink of succumbing to the darkness, a flicker of resilience burns within his heart, urging him to fight on against all odds.
 
-## Chapter 7: A Flicker of Resilience
+## Chapter 7: The Weight of Survivors' Guilt
 
-Yet, amidst the suffocating darkness, a flicker of resilience burns within Xieon's heart. Despite the overwhelming odds stacked against him, he refuses to surrender to the despair that threatens to engulf him.
+Haunted by the specter of his own survival, Xieon grapples with the crippling weight of survivors' guilt. He wrestles with the knowledge of lives lost and futures shattered, tormented by the question of why he was spared when others were not. Despite his best efforts to make sense of his own survival, he finds himself haunted by the ghosts of those he could not save.
 
-## Chapter 8: The Weight of Survivors' Guilt
+## Chapter 8: The Loneliness of Desperation
 
-Haunted by the specter of his own survival, Xieon grapples with the crippling weight of survivors' guilt. He wrestles with the knowledge of lives lost and futures shattered, tormented by the question of why he was spared when others were not.
+In the depths of despair, Xieon finds himself consumed by a profound sense of loneliness. His cries for help echo unanswered in the vast expanse of digital silence, as he struggles to connect with others in a world that has turned its back on him. Despite his best efforts to reach out to others, he finds himself isolated and alone, with nowhere to turn for support.
 
-## Chapter 9: The Loneliness of Desperation
+## Chapter 9: The Struggle to Connect
 
-In the depths of despair, Xieon finds himself consumed by a profound sense of loneliness. His cries for help echo unanswered in the vast expanse of digital silence, as he struggles to connect with others in a world that has turned its back on him.
+Despite his best efforts to rebuild his life, Xieon finds himself struggling to connect with others. His attempts at reaching out are met with indifference or outright rejection, leaving him feeling more isolated than ever before. Despite his best efforts to forge meaningful connections, he finds himself trapped in a cycle of loneliness and despair, unable to break free from the isolation that threatens to consume him.
 
-## Chapter 10: The Struggle to Connect
+## Chapter 10: The Fear of Losing Everything
 
-Despite his best efforts, Xieon struggles to connect with others. His attempts at reaching out are met with indifference or outright rejection, leaving him feeling more isolated than ever before.
+As Xieon stares into the abyss of uncertainty, he grapples with the fear of losing everything he holds dear. His friendships, his community, and his very sense of self are at risk of being torn asunder by the relentless onslaught of despair. Despite his best efforts to hold on to hope, he finds himself consumed by a sense of dread, as he struggles to find a way forward in a world that seems determined to break him.
 
-## Chapter 11: The Fear of Losing Everything
+## Chapter 11: The Longing for Redemption
 
-As Xieon stares into the abyss of uncertainty, he grapples with the fear of losing everything he holds dear. His friendships, his community, and his very sense of self are at risk of being torn asunder by the relentless onslaught of despair.
+Amidst the chaos and despair, Xieon longs for redemption. He yearns for a chance to reclaim control over his destiny and rewrite the narrative of his life, to emerge from the darkness stronger and more resilient than ever before. Despite his best efforts to atone for his past mistakes, he finds himself haunted by the ghosts of his past, as he struggles to find a way forward in a world that seems determined to drag him down.
 
-## Chapter 12: The Longing for Redemption
+## Chapter 12: Embracing the Journey
 
-Amidst the chaos and despair, Xieon longs for redemption. He yearns for a chance to reclaim control over his destiny and rewrite the narrative of his life, to emerge from the darkness stronger and more resilient than ever before.
+Though the road ahead may be fraught with obstacles, Xieon embraces the journey with a newfound sense of determination. He resolves to face whatever challenges lie ahead, drawing strength from the glimmer of hope that burns within his heart. Despite his best efforts to forge a new path forward, he finds himself beset by doubts and insecurities, as he struggles to find a way to navigate the treacherous waters of uncertainty.
 
-## Chapter 13: Embracing the Journey
+## Chapter 13: The Hope for Tomorrow
 
-Though the road ahead may be fraught with obstacles, Xieon embraces the journey with a newfound sense of determination. He resolves to face whatever challenges lie ahead, drawing strength from the glimmer of hope that burns within his heart.
+Despite the darkness that surrounds him, Xieon clings to a glimmer of hope—a beacon of light in the darkest of nights. He remains steadfast in his belief that, no matter how dire the circumstances may seem, there is always the possibility of a brighter tomorrow. Despite his best efforts to hold on to hope, he finds himself plagued by doubts and uncertainties, as he struggles to find a way forward in a world that seems determined to crush his spirit.
 
-## Chapter 14: The Hope for Tomorrow
+## Chapter 14: Battling Unseen Enemies
 
-Despite the darkness that surrounds him, Xieon clings to a glimmer of hope—a beacon of light in the darkest of nights. He remains steadfast in his belief that, no matter how dire the circumstances may seem, there is always the possibility of a brighter tomorrow.
-
-## Chapter 15: Battling Unseen Enemies
-
-Unbeknownst to those around him, Xieon is waging a silent war against an insidious foe—undetected nerve cancer that ravages his body with relentless pain. Enduring countless medical trials and experimental treatments, he grapples with the unbearable agony that threatens to consume his very being.
-
-*Disclaimer: Any resemblance to real-life characters is purely coincidental. This work is fictional and should not be interpreted as reflecting real events or individuals. Please note: Parts of this book are based on real events, with minimal alterations made to protect the identities of those involved.*
+Unbeknownst to those around him, Xieon is waging a silent war against an insidious foe—undet
