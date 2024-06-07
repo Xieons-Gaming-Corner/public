@@ -8,6 +8,8 @@
 * [Xieon's Gaming Corner on YouTube](http://yt.xieon.co)
 * [Xieon's Gaming Corner on X (formerly Twitter)](https://twitter.com/XieonGaming)
 
+# Security Notices - 
+* [How to use TikTok Safer/Safely (Public Release)](https://github.com/Xieons-Gaming-Corner/public/blob/main/tiktok/readme.md)
 # Cryptocurrency and technology 
 * [Crypto Tools & Official Links](https://github.com/Xieons-Gaming-Corner/public/blob/main/cryptotools.md)
 
