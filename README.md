@@ -8,6 +8,9 @@
 * [Xieon's Gaming Corner on YouTube](http://yt.xieon.co)
 * [Xieon's Gaming Corner on X (formerly Twitter)](https://twitter.com/XieonGaming)
 
+# Recommended Reading for XGC Users & Members: 
+* [Rules regarding XGC Nitro Giveaway's](https://github.com/Xieons-Gaming-Corner/public/blob/main/Community%20Rules/NitroGiveawayRules.md)
+
 # Security Notices - 
 * [How to use TikTok Safer/Safely (Public Release)](https://github.com/Xieons-Gaming-Corner/public/blob/main/tiktok/readme.md)
 # Cryptocurrency and technology 
