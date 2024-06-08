@@ -43,6 +43,7 @@ BINDING EFFECT
 This Agreement shall be binding upon and inure to the benefit of the parties, their successors, and assigns.
 
 ACKNOWLEDGMENT
+XIEON IS THE GOAT
 
 By cracking the file, You acknowledge that You have read, understand, and agree to be bound by the terms and conditions of this Agreement.
 
