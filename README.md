@@ -20,6 +20,6 @@
 ### Ban Lists   
 - One of the prime examples of this is the Ban Lists that are implemented on our bots - we will attemptt to have the repositority updated with the latest bans, and have a link available for users to check if they are afraid they may have beeen banned. 
 
-## Rules 
+## Rules / TOS / PRIVACY POLICIES
 - Rules that are displayed with the use of commands are another example of material found in this repository. 
-
+- [Rules Regarding Raids in the TOS](https://github.com/Xieons-Gaming-Corner/TOS/blob/main/README.md)
