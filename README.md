@@ -11,8 +11,9 @@
 # Recommended Reading for XGC Users & Members: 
 * [Rules regarding XGC Nitro Giveaway's](https://github.com/Xieons-Gaming-Corner/public/blob/main/Community%20Rules/NitroGiveawayRules.md)
 
-# Security Notices - 
+# Security Notices / Security Tools & Knowledge Bases 
 * [How to use TikTok Safer/Safely (Public Release)](https://github.com/Xieons-Gaming-Corner/public/blob/main/tiktok/readme.md)
+* [Some simple steps for protecting your privacy and covering your online footprint in a digital world](https://github.com/Xieons-Gaming-Corner/public/blob/main/safety_tools/internet_security.md) 
 # Cryptocurrency and technology 
 * [Crypto Tools & Official Links](https://github.com/Xieons-Gaming-Corner/public/blob/main/cryptotools.md)
 
