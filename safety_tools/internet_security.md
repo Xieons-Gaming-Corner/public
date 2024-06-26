@@ -1,4 +1,4 @@
-**Protect Your Online Privacy**
+# **Protect Your Online Privacy**
 
 Whether you are participating in protests or engaging in online activities, it’s important to protect your browsing habits, metadata, and search histories. These can be subpoenaed as evidence or expose others even months or years later. Even without a court order or direct governmental surveillance, your data history can be purchased from aggregate services, both legally and illegally.
 
