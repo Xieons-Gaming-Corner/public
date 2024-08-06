@@ -4,8 +4,8 @@
   
 # Xieon's Gaming Corner 
 * [Xieon's Gaming Corner Discsord](http://discord.gg/xieon)
-* [Xieon's Gaming Corner on Twitch](http://twitch.xieon.co)
-* [Xieon's Gaming Corner on YouTube](http://yt.xieon.co)
+* [Xieon's Gaming Corner on Twitch](http://twitch.xieon.xyz)
+* [Xieon's Gaming Corner on YouTube](http://yt.xieon.xyz)
 * [Xieon's Gaming Corner on X (formerly Twitter)](https://twitter.com/XieonGaming)
 
 # Recommended Reading for XGC Users & Members: 
