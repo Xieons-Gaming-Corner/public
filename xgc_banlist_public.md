@@ -5,7 +5,7 @@ Match BAN ID from Public to BAN ID for Staff Private - to get details related to
 # Aizen Suske - Trade/Raid Bot Bans - 
 ## SYNTAX: [Public Information - IGN, Discord ID] [XGC Internal Reference #] [Link to Private Report]
 > *  [SV IGN: Sneaki / Discord Username: SN3AKYOx ]  [rtban_08222024_1](https://github.com/Xieons-Gaming-Corner/snippets/blob/main/banlogs/rtban_08222024_1.txt) 
-
+> * [SV IGN: Sneaki / Discord Username: SN3AKYOx  - CENSORED VERSION]  [rtban_08222024_1](https://github.com/Xieons-Gaming-Corner/snippets/blob/main/banlogs/rtban_08222024_1_1.txt) 
 
 # Twitch Bans
 
