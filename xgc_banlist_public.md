@@ -11,5 +11,5 @@ Match BAN ID from Public to BAN ID for Staff Private - to get details related to
 
 
 # Discord Bans
-
+> *   [Discord ID: @x_latique_x] [BanID: 800423109206736906 Link To Private Report](https://github.com/Xieons-Gaming-Corner/snippets/blob/main/banlogs/800423109206736906.txt)
 
