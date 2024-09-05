@@ -6,22 +6,30 @@
 
 
 ## Special Thanks and Credits: 
-Tera-Finder Version(s) up through 4.0.1
+
+
+### Tera-Finder Version(s) up through 4.0.1
+* XGC has utilized much of manu's research, utilities and source code in it's project - and appreciate their huge contribution to the community 
 * This project relies heavily on the use of the TeraFinder program created by [Manu098vm](https://github.com/Manu098vm/Tera-Finder). 
 * XGC is not officially supported or endorsed by Manu; we simply use the generous code he's provided to the community in our endeavors. 
 * * TeraFinder is itself dependent on [PKHeX](https://github.com/kwsch/PKHeX/).
 
-The Rose-Garden / Not-ForkBot / Zyro
+### The Rose-Garden / Not-ForkBot / Zyro
 * Although XGC feels there is an unwarranted feud between "The Rose Garden" and "Xieon's Gaming Corner" since the XGC Admins were banned from the Rose Garden Server - we still want to thank the developers and contributors including Zyro for laying a large portion of the groundwork needed for our projects: 
 * [NotForkBot.NET](https://github.com/zyro670/NotForkBot.NET)
 * Zyro's GitHub: [https://github.com/zyro670/](https://github.com/zyro670/)
 
-Sysbot.PokemonScarletandViolet (Berichan's Build)
+### Sysbot.PokemonScarletandViolet (Berichan's Build)
 * We have utilized code from [SysBot.PokemonScarletViolet](https://github.com/berichan/SysBot.PokemonScarletViolet) 
 * Thank you to developer Berichan [https://github.com/berichan/](https://github.com/berichan/).
+* * XGC/Xieon has made insignificant pushs to the main branch of this repository - mostly bumping dependancy versions, Berichan is not officially affiliated with XGC
+
+### NotForkBot (BDawgs fork) 
+* Utilized source code from dev [bdawg1989](https://github.com/bdawg1989?tab=repositories)
+* * Not officialy affiliated with XGC 
 
 Other Instrumental Developers: 
-There are other developers that deserve credit for their work preceeding this, and assistance during various points in development. 
+There are other developers that deserve credit for their work preceeding this, and/or assistance during various points in development. 
 * Olizor & Kwsch - for ForkBot & Sysbot.Net respectively - 
 * Developer Kuro Nekoshi - 
 * Dai - from the GameDai - 
