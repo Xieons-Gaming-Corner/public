@@ -1,27 +1,23 @@
 version: 2
 updates:
-  - package-ecosystem: "" # See documentation for possible values
+  - package-ecosystem: "npm" # Specify the package manager, e.g., npm, pip, maven
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
 
-            - name: Cache
-  uses: actions/cache@v4.0.2
-  with:
-    # A list of files, directories, and wildcard patterns to cache and restore
-    path: 
-    # An explicit key for restoring and saving the cache
-    key: 
-    # An ordered list of keys to use for restoring stale cache if no cache hit occurred for key. Note `cache-hit` returns false in this case.
-    restore-keys: # optional
-    # The chunk size used to split up large files during upload, in bytes
-    upload-chunk-size: # optional
-    # An optional boolean when enabled, allows windows runners to save or restore caches that can be restored or saved respectively on other platforms
-    enableCrossOsArchive: # optional, default is false
-    # Fail the workflow if cache entry is not found
-    fail-on-cache-miss: # optional, default is false
-    # Check if a cache entry exists for the given input(s) (key, restore-keys) without downloading the cache
-    lookup-only: # optional, default is false
-    # Run the post step to save the cache even if another step before fails
-    save-always: # optional, default is false
-          
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cache
+        uses: actions/cache@v4.0.2
+        with:
+          path: node_modules # Specify the path to cache
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }} # Specify the key for caching
+          restore-keys: |
+            ${{ runner.os }}-node-
+          upload-chunk-size: 50000000 # Optional: specify chunk size for large files
+          enableCrossOsArchive: false # Optional: enable cross OS archive
+          fail-on-cache-miss: false # Optional: fail workflow if cache entry is not found
+          lookup-only: false # Optional: check if cache entry exists without downloading
+          save-always: false # Optional: save cache even if a previous step fails
