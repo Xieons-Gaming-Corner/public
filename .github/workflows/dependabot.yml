@@ -1,0 +1,23 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # Specify the package manager, e.g., npm, pip, maven
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cache
+        uses: actions/cache@v4.0.2
+        with:
+          path: node_modules # Specify the path to cache
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }} # Specify the key for caching
+          restore-keys: |
+            ${{ runner.os }}-node-
+          upload-chunk-size: 50000000 # Optional: specify chunk size for large files
+          enableCrossOsArchive: false # Optional: enable cross OS archive
+          fail-on-cache-miss: false # Optional: fail workflow if cache entry is not found
+          lookup-only: false # Optional: check if cache entry exists without downloading
+          save-always: false # Optional: save cache even if a previous step fails
