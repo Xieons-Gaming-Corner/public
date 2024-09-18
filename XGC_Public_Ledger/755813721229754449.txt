@@ -1,4 +1,4 @@
-Genesis of 755813721229754449 Assets in XGC Public Ledger
+Public XGC Assets Held in Account 755813721229754449
 
 # Assets (1)
 Asset #1: Type: IOU - 
