@@ -2,8 +2,10 @@ Public XGC Assets Held in Account 755813721229754449
 
 # Assets (1)
 Asset #1: Type: IOU - 
+Asset in: Pokemon Go
+Transferrable: Yes to another Pokemon Go Player eligible to claim Pokemon Go prizes from XGC. Yes USD Value can be used for/on something else with XGC's agreement. 
 Value in $USD: $1.99
-Value of Redemption of IOU - $1.99 USD or less - 
+Value of Redemption of IOU: $1.99 USD or less - 
 Expiration of IOU: None
 Settlement of IOU: Both parties agree
-Forced Settlement Conditions: After 3 months from the commit adding this asset XGC may force the user to accept the next $1.99 ticket or giftable Pokemon Go product, or XGC reserves the right to cancel the IOU in it's entirety. 
+Forced Settlement Conditions: (3 months IOU still exists) - XGC may force the user to accept the next $1.99 ticket or giftable Pokemon Go product, or XGC reserves the right to cancel the IOU in it's entirety. 
