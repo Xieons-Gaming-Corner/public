@@ -2,6 +2,9 @@
 - Hosted by the Xieon's Gaming Corner Organization - check out our [Discord Community](https://discord.gg/Xieon) 
 - Follow Xieon Gaming on both [Twitch](https://twitch.tv/Xieon) & on [YouTube](https://youtube.com/@Xieongaming)
 
+
+## Artifacts: 
+> * [Artifacts Found So Far by Xieon](https://github.com/Xieons-Gaming-Corner/public/blob/main/Call_Of_Duty_Zombies/Black_Ops_6/artifacts.md)
 ## Acquired Intel 
 ### Intake Forum
 * * ![image](https://github.com/user-attachments/assets/e4128e30-26a4-4c69-ba2d-1f321c6a525c)
