@@ -9,7 +9,9 @@ I put this in the public/assets section so anyone may feel free to use my templa
 
 
 ## Spreadsheets / Markdown Check Lists
-> * Generation 1 Markdown File (up to Mew) - [Here](https://github.com/Xieons-Gaming-Corner/public/blob/main/assets/spreadsheets/gen1.md) - Generation 1 [Excell Spreadsheet File](https://github.com/Xieons-Gaming-Corner/public/blob/main/assets/spreadsheets/Excell_Spreadsheets/gen1.xlsx)
+> * Generation 1 Markdown File (up to Mew) - [Here](https://github.com/Xieons-Gaming-Corner/public/blob/main/assets/spreadsheets/gen1.md) -   1 [Excell Spreadsheet File](https://github.com/Xieons-Gaming-Corner/public/blob/main/assets/spreadsheets/Excell_Spreadsheets/gen1.xlsx)
+> * * [Gen 1 Excell Online Spreadsheet](https://docs.google.com/spreadsheets/d/1GXPSUMFIQsrxqaMpBTh2D2Mhi6Sd51gtqK4AFt-2-fk/edit?usp=sharing) 
+> * Gen 2
 > * Gen 3 
 > * Gen 4
 > * Gen 5 
