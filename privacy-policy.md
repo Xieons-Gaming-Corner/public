@@ -37,8 +37,19 @@ Depending on your jurisdiction, you may have the right to access, correct, or de
 
 #### 9. Donations and Refunds Policy
 - **Donations are non-refundable**: Donations to XGC are **not** refundable. Once a donation is made, it is final and cannot be reversed. We appreciate your generosity, but there will be no refunds for any donation.
-- **Gifts or Perks**: If XGC decides to gift a user a perk (such as a subscription or special status) as a thank you for a donation, this is done **after the donation** and is **not guaranteed**. These gifts can be **revoked at any time** by XGC staff, and if that happens, no refund will be issued for the original donation.
-- **Subscription Benefits**: Subscriptions purchased through XGC are valid for the period of time purchased. However, **gifted subscriptions** do not have the same rights and can be revoked at any time by XGC staff.
+- **Gifts or Perks**: If XGC decides to gift a user a perk (such as a subscription or special status) as a thank you for a donation, this is done **after the donation** and is **not guaranteed**. These gifts can be **revoked at any time** by XGC staff. Examples of when perks may be revoked include:
+  - Violating community guidelines or engaging in toxic behavior.
+  - Attempting to manipulate or coerce staff into offering perks.
+  - Engaging in activities that disrupt the community or its operations.
+  - Fraudulent or deceptive behavior related to the donation or the use of perks.
+- **Subscription Benefits**: Subscriptions purchased through XGC are valid for the period of time purchased. However, **gifted subscriptions** do not have the same rights and can be revoked at any time by XGC staff. For example, if a gifted subscription recipient is banned for violating community rules, the subscription can be revoked without a refund.
+  
+- **Notification of Changes**: If the Donations and Refunds Policy is updated, users **may** be notified through the following channels:
+  - **Discord Announcement**: An announcement will be made in the XGC Discord server detailing any significant updates.
+  - **Public GitHub Repository**: The updated policy will be reflected in the [XGC Organization GitHub Privacy Policy](https://github.com/Xieons-Gaming-Corner/public/blob/main/privacy-policy.md), with a version history showing changes made to the document.
+  - **Direct Communication**: For important changes that may directly affect you, XGC staff may send a direct message to the user via Discord.
+  
+  **It is ultimately the user's responsibility** to ensure they are up to date with the latest version of any applicable XGC policies by regularly checking the official page on the XGC Organizational GitHub.
 
 #### 10. Changes to This Privacy Policy
 XGC reserves the right to alter this privacy policy at any time. Any changes to this policy will be immediately made available through commits showing the exact changes the document underwent since the main residence of this document is within the public repositories of the XGC Organization GitHub at: [XGC Organization GitHub Privacy Policy](https://github.com/Xieons-Gaming-Corner/public/blob/main/privacy-policy.md). Your continued use of the services after any changes indicates your acceptance of the new Privacy Policy.
