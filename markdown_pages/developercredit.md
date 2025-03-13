@@ -6,6 +6,10 @@
 # Xieon's Gaming Corner Specific Projects: 
 XGC has created it's own forks of several forks of sysbot, integrated them with each other, added, and removed things, used them as learning tools, backups, dependancies, and more. We'd like to specifically thank the developers and organizations of which their work we directly relied on to some extent.
 
+# Official Affiliation, Endorsement, and Stances
+Unless explicitly stated otherwise by XGC, XGC does not have any official affiliation, endorsement, or stance on any specific positions, projects, or topics mentioned within this repository. Any references to other creators, developers, or projects are solely for informational purposes, and XGC is not officially connected with or supportive of any of these entities unless clearly and explicitly noted. Comparisons, discussions, or mentions involving XGC and other topics are not meant to convey opposition, endorsement, or any form of official position unless directly stated by XGC.
+
+
 ## Special Thanks and Credits: 
 
 ### Server Owner-Partners
@@ -17,8 +21,8 @@ XGC operates heavily inside of Discord, and uses Discord as it's primary platfor
 ### PKHex and AutoLegalityMod
 * [PKHeX](https://github.com/kwsch/PKHeX/)
 
-### Tera-Finder Version(s) up through 4.0.1 
-* Technically up through the version released as of September 20th, 2024
+### Tera-Finder Version(s) up through March 16th, 2025
+* ~~Technically up through the version released as of September 20th, 2024~~
 * XGC has utilized much of manu's research, utilities and source code in it's project - and appreciate their huge contribution to the community 
 * This project relies heavily on the use of the TeraFinder program created by [Manu098vm](https://github.com/Manu098vm/Tera-Finder). 
 * XGC is not officially supported or endorsed by Manu; we simply use the generous code he's provided to the community in our endeavors. 
