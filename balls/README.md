@@ -5,3 +5,5 @@ There are currently 4 balls in this collection that are fan made by XGC - They a
 
 https://github.com/Xieons-Gaming-Corner/public/blob/main/balls/ball_rocket2_xgc.jpg
 https://github.com/Xieons-Gaming-Corner/public/blob/main/balls/ball_xgc_crystal.png?raw=true
+
+https://github.com/Xieons-Gaming-Corner/public/blob/main/balls/ball_xgc_rocket.webp
