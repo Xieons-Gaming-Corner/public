@@ -12,4 +12,4 @@ XGC respects the rights of copyright holders. If the owner, authorized agent, or
 
 Upon written request from the copyright owner or authorized representative, XGC will promptly remove or replace the referenced asset from the bot and related community materials. Nothing in XGC’s use of an asset is intended to claim ownership or to override the rights of the original copyright holder.
 
-XGC uses the assets only for community identification and will comply with takedown requests.
+XGC does not use these emojis as a replacement for original game assets, does not sell them as merchandise, and does not use them to compete with or substitute for copyrighted material. XGC’s intent is limited, community-facing identification and coordination use.
