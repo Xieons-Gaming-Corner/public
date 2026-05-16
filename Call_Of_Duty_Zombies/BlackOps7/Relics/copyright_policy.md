@@ -10,6 +10,10 @@ XGC respects the rights of copyright holders. If the owner, authorized agent, or
 
 ## Notice and Removal
 
-Upon written request from the copyright owner or authorized representative, XGC will promptly remove or replace the referenced asset from the bot and related community materials. Nothing in XGC’s use of an asset is intended to claim ownership or to override the rights of the original copyright holder.
+Upon written request from the copyright owner or authorized representative, XGC will promptly remove or replace the referenced asset from the bot and related community materials.
+Requests should include: (1) requester identity and authority, (2) asset to remove (name/link/screenshot), and (3) where it appears.
+Send requests to: <contact email or form>.
+XGC will acknowledge requests within <N> business day(s) and complete removal/disablement within <M> business day(s), subject to verification needs.
+Nothing in XGC’s use of an asset is intended to claim ownership or to override the rights of the original copyright holder.
 
 XGC does not use these emojis as a replacement for original game assets, does not sell them as merchandise, and does not use them to compete with or substitute for copyrighted material. XGC’s intent is limited, community-facing identification and coordination use.
