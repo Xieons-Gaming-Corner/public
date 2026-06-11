@@ -41,6 +41,17 @@ For example, if a user uploads a supported file such as a `.pk9` file for legali
 
 Aizen is not intended to perform general-purpose monitoring of unrelated Discord conversations.
 
+## 4a. Pokemon File Data and Research Use
+
+When a user submits a Pokemon data file, such as a `.pk9`, `.pk8`, or similar format, to Aizen for legality analysis or validation, XGC may retain and use the anonymized Pokemon data extracted from that file for internal research purposes, including improving legality checking accuracy, expanding XGC's legality database, and contributing to Pokemon legality research.
+
+- All personally identifying information — including Discord IDs, usernames, and any other user identifiers — is stripped from the data before any research use.
+- Only the Pokemon file data itself is retained for research purposes.
+- Retained research data cannot be linked back to any individual user once anonymized.
+- XGC does not sell or share anonymized Pokemon research data with third parties for commercial purposes.
+
+By submitting a file to Aizen for analysis, you acknowledge and consent to these data practices. If you do not agree, do not use Aizen's file analysis features.
+
 ## 5. Data Retention
 
 Aizen retains Discord data only for as long as reasonably necessary to operate the bot, provide requested features, maintain security, investigate abuse, resolve support issues, or comply with legal obligations.
