@@ -1,0 +1,90 @@
+---
+title: "/commands"
+sidebarTitle: "/commands"
+description: "List all available XGCC bot commands."
+---
+
+The `/commands` slash command displays a full list of every command the XGCC bot supports. Results are delivered as paginated embeds directly in the channel where the command is run.
+
+## Usage
+
+```text
+/commands
+```
+
+Run the command anywhere in the XGC server. The response is **ephemeral**, so only the user who invoked it can see the reply.
+
+## Permissions
+
+<Warning>
+  This command is restricted to members with the **XGC Admins** role. Users without that role will receive:
+
+  > You don't have permission to run this command.
+</Warning>
+
+| Requirement | Value |
+| --- | --- |
+| Required role | `XGC Admins` |
+| Scope | Guild-only (registered to `SERVER_ID`) |
+| Visibility | Ephemeral (only the invoker sees the response) |
+
+## Response
+
+The bot replies with one or more embeds titled **🛠️ XGCC Bot Commands**:
+
+- Commands are listed alphabetically (from `sorted_commands`).
+- Up to **10 commands per embed** — additional embeds are sent automatically when the list is longer.
+- Embed color: green.
+- Footer includes the server time when the command was executed, e.g. `Command List | 2026-07-14 15:04:22`.
+
+## Behavior
+
+<Steps>
+  <Step title="Permission check">
+    The bot verifies the invoker has the `XGC Admins` role. If not, an ephemeral denial message is returned and execution stops.
+  </Step>
+  <Step title="Timestamp capture">
+    The current server time is captured in `YYYY-MM-DD HH:MM:SS` format for the embed footer.
+  </Step>
+  <Step title="Send split embeds">
+    `send_split_embeds` chunks `sorted_commands` into groups of 10 and posts each chunk as a separate embed in the invoking channel, ephemerally to the invoker.
+  </Step>
+</Steps>
+
+## Implementation
+
+```python
+@tree.command(
+    name="commands",
+    description="List all available XGCC bot commands",
+    guild=discord.Object(id=SERVER_ID),
+)
+async def commands(interaction: discord.Interaction):
+    if not any(role.id == XGC_ADMINS_ROLE_ID for role in interaction.user.roles):
+        await interaction.response.send_message(
+            "You don't have permission to run this command.",
+            ephemeral=True,
+        )
+        return
+
+    server_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    await send_split_embeds(
+        channel=interaction.channel,
+        title="🛠️ XGCC Bot Commands",
+        items=sorted_commands,
+        color=discord.Color.green(),
+        per_embed=10,
+        footer=f"Command List | {server_time}",
+        interaction=interaction,
+        ephemeral=True,
+    )
+```
+
+### Dependencies
+
+| Symbol | Purpose |
+| --- | --- |
+| `SERVER_ID` | Guild ID the command is registered to. |
+| `XGC_ADMINS_ROLE_ID` | Role ID authorized to run the command. |
+| `sorted_commands` | Pre-sorted iterable of command entries to display. |
+| `send_split_embeds` | Helper that paginates `items` into multiple embeds. |
