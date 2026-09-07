@@ -1,101 +1,132 @@
+
 # Aizen Privacy Policy
 
-Effective Date: June 11, 2026
+**Effective date:** June 11, 2026, Updated Changes take **Effective Date** September, 6, 2026
 
-## 1. Introduction
+## 1. Overview
 
-This Privacy Policy explains how Aizen, a Discord bot operated by Xieon's Gaming Corner (XGC), collects, accesses, uses, stores, and discloses information when users interact with the bot and its related services on Discord. This policy is intended to describe Aizen's bot-specific data practices, including the handling of Discord message content and attachments when users intentionally invoke bot features.
+This Privacy Policy explains how **Aizen**, a Discord bot operated by **Xieon’s Gaming Corner (“XGC,” “we,” “us,” or “our”)**, accesses, uses, stores, and discloses information when you use the bot or its related Discord-based services.
 
-## 2. Information Aizen Accesses and Collects
+Aizen processes Discord information only as needed to provide requested bot features, maintain security and reliability, prevent abuse, comply with legal obligations, and support users. Aizen is not designed to monitor unrelated Discord conversations for advertising, data brokerage, or unrelated profiling.
 
-Aizen may access or collect the following categories of information when necessary to provide requested bot functionality:
+## 2. Information We Process
 
-- Discord account and platform identifiers, such as usernames, display names, user IDs, server IDs, channel IDs, role IDs, and message IDs.
-- Bot interaction data, such as slash command use, prefix command use, button interactions, modal submissions, and other direct bot invocations.
-- Message content and attachments only when necessary for user-invoked bot features, such as prefix-based commands or file-processing features submitted in a server channel or direct message.
-- Uploaded files and attachment metadata when users intentionally submit files for analysis, validation, or other bot-supported processing.
-- Limited technical and diagnostic data, such as timestamps, error logs, rate-limit events, and feature usage logs needed to maintain reliability, security, and abuse prevention.
+Depending on the features you use, Aizen may access or process:
 
-Aizen does not access or use Discord data for advertising, data brokerage, or unrelated profiling of server conversations.
-
-## 3. How Aizen Uses Information
-
-Aizen may use accessed or collected information to:
-
-- Provide bot functionality requested by users.
-- Detect and process prefix-based commands and other direct bot interactions.
-- Retrieve and analyze files intentionally submitted to the bot, including legality checking and similar analysis workflows.
-- Generate bot responses, moderation outcomes, validation results, logs, and user-requested outputs.
-- Maintain service reliability, diagnose errors, prevent abuse, investigate misuse, and enforce applicable rules.
-- Comply with legal obligations and respond to valid legal process.
-
-## 4. Message Content and Attachment Processing
-
-Aizen may access Discord message content and attachments only when necessary for bot features intentionally invoked by users. Examples include:
-
-- Prefix-based text commands, such as commands beginning with a configured bot prefix.
-- Files uploaded directly into a Discord channel or direct message for bot processing.
-- Attachment-based analysis workflows, such as reviewing supported files submitted for validation, legality analysis, or similar user-requested processing.
-
-For example, if a user uploads a supported file such as a `.pk9` file for legality analysis, Aizen may access the message attachment data and the file contents required to complete that requested analysis.
-
-Aizen is not intended to perform general-purpose monitoring of unrelated Discord conversations.
-
-## 4a. Pokemon File Data and Research Use
-
-When a user submits a Pokemon data file, such as a `.pk9`, `.pk8`, or similar format, to Aizen for legality analysis or validation, XGC may retain and use the anonymized Pokemon data extracted from that file for internal research purposes, including improving legality checking accuracy, expanding XGC's legality database, and contributing to Pokemon legality research.
-
-- All personally identifying information — including Discord IDs, usernames, and any other user identifiers — is stripped from the data before any research use.
-- Only the Pokemon file data itself is retained for research purposes.
-- Retained research data cannot be linked back to any individual user once anonymized.
-- XGC does not sell or share anonymized Pokemon research data with third parties for commercial purposes.
-
-By submitting a file to Aizen for analysis, you acknowledge and consent to these data practices. If you do not agree, do not use Aizen's file analysis features.
-
-## 5. Data Retention
-
-Aizen retains Discord data only for as long as reasonably necessary to operate the bot, provide requested features, maintain security, investigate abuse, resolve support issues, or comply with legal obligations.
-
-Retention may include the following:
-
-- Raw uploaded files and related attachment data may be stored temporarily for processing, troubleshooting, abuse prevention, or user support, and should be deleted when no longer operationally necessary.
-- Command and interaction logs may be retained for a limited period for debugging, service quality, abuse prevention, and moderation review.
-- Moderation and enforcement records may be retained for a longer period where reasonably necessary to document bans, abuse, fraud, appeals, security incidents, or repeated rule violations.
-- Financial or tax-related records, where applicable, may be retained as required by law.
-
-XGC does not retain Discord data longer than necessary for the operation of Aizen and related compliance, safety, and support purposes.
-
-## 6. Disclosure of Information
-
-Information may be disclosed only in the following circumstances:
-
-- To service providers or infrastructure providers that help operate Aizen, subject to appropriate confidentiality and security controls.
-- To comply with law, regulation, court order, subpoena, or other valid legal process.
-- To protect the rights, safety, security, and integrity of Aizen, XGC, users, or the public.
-- In connection with abuse prevention, fraud investigation, security response, or enforcement of applicable terms and rules.
+- **Discord account and platform identifiers**, including usernames, display names, user IDs, server IDs, channel IDs, role IDs, message IDs, and interaction IDs.
+- **Bot interaction data**, including slash commands, prefix commands, button clicks, select-menu choices, modal submissions, and other direct interactions with Aizen.
+- **Message content**, only when needed to detect or process a user-invoked feature, such as a configured prefix command.
+- **Attachments and uploaded files** that users intentionally submit for supported processing, analysis, validation, or troubleshooting.
+- **Technical and diagnostic information**, such as timestamps, feature-use records, error logs, rate-limit events, and security or abuse-prevention signals.
+- **Moderation and enforcement information**, where applicable, such as warnings, bans, appeal-related records, abuse reports, or repeated rule-violation history.
 
 Aizen does not sell personal information obtained through Discord.
 
-## 7. Security
+## 3. How We Use Information
 
-Reasonable administrative, technical, and organizational safeguards are used to protect information processed by Aizen. However, no system can be guaranteed to be completely secure, and users should understand that transmission and storage of data always involves some risk.
+XGC may use information processed by Aizen to:
 
-## 8. User Rights and Requests
+- Provide requested bot features and responses.
+- Detect and execute prefix commands, slash commands, and other direct interactions.
+- Process, analyze, validate, or review user-submitted files.
+- Generate requested outputs, legality results, validation results, logs, moderation actions, and related bot responses.
+- Maintain service performance, diagnose bugs, investigate errors, and improve reliability.
+- Detect, prevent, investigate, and respond to abuse, fraud, security incidents, and violations of applicable rules.
+- Maintain moderation records and address support requests, disputes, or appeals.
+- Comply with applicable law and respond to valid legal requests.
 
-Depending on applicable law and jurisdiction, users may have rights to request access to, correction of, or deletion of their personal information.
+## 4. Messages and Attachments
 
-Requests related to Aizen data may be submitted through XGC's official Discord community at [https://discord.gg/xieon](https://discord.gg/xieon) or through any other official contact method published by XGC. Some information may need to be retained where required for legal compliance, dispute resolution, moderation documentation, fraud prevention, or security purposes.
+Aizen may access message content and attachments only when necessary for a bot feature a user intentionally invokes.
 
-## 9. Donations, Purchases, and Third-Party Payments
+This may include:
 
-If a user makes a donation, purchase, or subscription through a third-party payment provider or platform, payment processing is generally handled by that third party. XGC may retain limited records related to those transactions only as needed for accounting, tax, fraud prevention, legal compliance, customer support, or dispute resolution.
+- A text command beginning with Aizen’s configured prefix.
+- A slash command, button, modal, or other direct interaction.
+- A file uploaded in a channel or direct message for bot-supported processing.
+- A supported attachment submitted for validation, legality analysis, or another requested workflow.
 
-Donation and refund terms, subscription rules, and perk eligibility may be governed by separate policies, terms, or community rules.
+For example, when a user submits a supported Pokémon file—such as a `.pk9`, `.pk8`, or similar file—for legality analysis, Aizen may access the attachment metadata and file contents needed to produce the requested result.
 
-## 10. Changes to This Policy
+Aizen is not intended to perform general-purpose surveillance of unrelated Discord conversations.
 
-XGC may update this Privacy Policy from time to time. Updated versions may be published through the XGC GitHub repository, Discord community, or another official publication channel. Continued use of Aizen after an updated policy becomes effective constitutes acceptance of the revised policy to the extent permitted by law.
+## 5. Pokémon File Research Data
 
-## 11. Contact
+When you submit a Pokémon data file to Aizen for legality analysis, validation, or a related feature, XGC may retain **anonymized Pokémon data** extracted from that file for internal research and service-improvement purposes.
 
-Questions or requests regarding this Privacy Policy may be directed through the official XGC Discord community at [https://discord.gg/xieon](https://discord.gg/xieon).
+This may include improving legality-checking accuracy, expanding XGC’s legality database, identifying data patterns, and contributing to Pokémon legality research.
+
+Before research use:
+
+- Discord IDs, usernames, server IDs, channel IDs, message IDs, and other direct user identifiers are removed.
+- XGC retains only the Pokémon data relevant to the research purpose.
+- The retained research dataset is not intended to identify or be linked back to the submitting user.
+- XGC does not sell anonymized Pokémon research data or share it with third parties for commercial data-brokerage purposes.
+
+By submitting a Pokémon file for Aizen’s analysis features, you acknowledge this anonymized research use. If you do not agree, do not submit files through those features.
+
+## 6. Data Retention
+
+XGC retains information only for as long as reasonably necessary to operate Aizen, provide requested functionality, maintain security, handle support matters, investigate abuse, enforce rules, resolve disputes, or meet legal obligations.
+
+Retention periods may vary by data type:
+
+| Information type | Typical retention purpose |
+|---|---|
+| Raw uploaded files and attachment data | Processing, troubleshooting, abuse prevention, or user support; deleted when no longer operationally necessary |
+| Commands and interaction logs | Debugging, service quality, feature operation, and abuse prevention |
+| Moderation and enforcement records | Documenting warnings, bans, appeals, fraud, security incidents, and repeated violations |
+| Anonymized Pokémon research data | Legality research, accuracy improvements, and maintenance of internal research resources |
+| Financial or tax records, if applicable | Accounting, tax, fraud prevention, legal compliance, support, and dispute resolution |
+
+We may retain certain records for longer where necessary for legal compliance, fraud prevention, security, moderation documentation, dispute resolution, or enforcement of community rules.
+
+## 7. Disclosure of Information
+
+XGC may disclose information only when reasonably necessary:
+
+- To hosting, infrastructure, security, or service providers that help operate Aizen, subject to appropriate confidentiality and security obligations.
+- To comply with applicable law, regulation, court order, subpoena, or other valid legal process.
+- To protect the rights, safety, privacy, security, and integrity of XGC, Aizen, users, or the public.
+- To investigate or respond to fraud, abuse, security incidents, policy violations, or other harmful activity.
+- In connection with enforcing applicable terms, community rules, or moderation decisions.
+
+XGC does not sell Discord-derived personal information.
+
+## 8. Security
+
+XGC uses reasonable administrative, technical, and organizational safeguards designed to protect information processed by Aizen. These measures may include access controls, limited data access, logging, and operational security practices.
+
+However, no online service, transmission method, or storage system is completely secure. You use Discord and Aizen at your own discretion and should avoid submitting sensitive information that is not necessary for the requested feature.
+
+## 9. Your Privacy Requests
+
+Depending on your location and applicable law, you may have rights to request access to, correction of, or deletion of personal information associated with your use of Aizen.
+
+To submit a privacy request, contact XGC through the official Discord community:
+
+[https://discord.gg/xieon](https://discord.gg/xieon)
+
+To help locate relevant data, include your Discord username, user ID if available, the server where the interaction occurred, and a description of the request. We may need to verify your identity before acting on a request.
+
+Some information may be retained where necessary for legal compliance, security, fraud prevention, moderation documentation, dispute resolution, or enforcement of applicable rules.
+
+## 10. Donations and Payments
+
+If you make a donation, purchase, subscription, or other payment through a third-party platform, payment processing is generally handled by that platform under its own privacy policy and terms.
+
+XGC may retain limited transaction-related information only as needed for accounting, tax reporting, fraud prevention, legal compliance, customer support, dispute resolution, refund processing, or perk eligibility.
+
+Donation terms, refund rules, subscriptions, and community perks may be governed by separate terms, policies, or community rules.
+
+## 11. Policy Updates
+
+XGC may update this Privacy Policy from time to time. Updated versions may be published through the XGC GitHub repository, the official XGC Discord community, or another official XGC publication channel.
+
+The updated policy becomes effective on the date shown at the top of the policy unless a different effective date is stated. Continued use of Aizen after an update takes effect constitutes acceptance of the revised policy to the extent permitted by applicable law.
+
+## 12. Contact
+
+For questions, privacy requests, or concerns about this Privacy Policy or Aizen’s data practices, contact XGC through the official Discord community:
+
+[https://discord.gg/xieon](https://discord.gg/xieon)
