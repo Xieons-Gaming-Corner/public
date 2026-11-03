@@ -24,7 +24,6 @@
 
 ## XGC SOCIALS: 
 - [![YouTube](https://img.shields.io/badge/YouTube-XieonGaming-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@XieonGaming)
-- [![Twitter](https://img.shields.io/badge/Twitter-XieonGaming-blue?style=for-the-badge&logo=twitter)](https://twitter.com/XieonGaming)
 - [![Instagram](https://img.shields.io/badge/Instagram-XieonsGamingCorner-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/xieonsgamingcorner)
 - [![Discord](https://img.shields.io/badge/Discord-discord.gg/Xieon-blue?style=for-the-badge&logo=discord)](https://discord.gg/Xieon)
 - [![Twitch](https://img.shields.io/badge/Twitch-Xieon-purple?style=for-the-badge&logo=twitch)](https://www.twitch.tv/xieon)
