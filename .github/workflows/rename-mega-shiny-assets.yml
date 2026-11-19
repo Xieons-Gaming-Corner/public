@@ -13,73 +13,38 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - name: Rename identified shiny images
+      - name: Commit renames through signed API
+        env:
+          GH_TOKEN: ${{ github.token }}
         shell: python
         run: |
+          import base64, json, os, subprocess
           from pathlib import Path
-          import subprocess
+          pairs = 'abomosnow:abomasnow|absol:absol|agron:aggron|alakazam:alakazam|altaria:altaria|audino:audino|banette:banette|beedrill:beedrill|blastoise:blastoise|blaziken:blaziken|camerupt:camerupt|charizard x:charizard_x|charizard y:charizard_y|diancie:diancie|galade:gallade|garchomp:garchomp|gardevoir:gardevoir|gengar:gengar|glalie:glalie|gyrados:gyarados|houndoom:houndoom|kanghakhan:kangaskhan|latias:latias|latios:latios|lopunny:lopunny|lucario:lucario|mawile:mawile|mega rayquaza:rayquaza|metagross:metagross|pidgeot:pidgeot|pinsir:pinsir|primal groudon:primal_groudon|primal kypgre:primal_kyogre|sabeleye:sableye|salamance:salamence|sharpedo:sharpedo|slowbro:slowbro|steelix:steelix|swampert:swampert|tyranitar:tyranitar|venesaur:venusaur'
           root = Path('assets/mega_pokemon')
-          mapping = {
-              'abomosnow.png': 'shiny_abomasnow.png',
-              'absol.png': 'shiny_absol.png',
-              'agron.png': 'shiny_aggron.png',
-              'alakazam.png': 'shiny_alakazam.png',
-              'altaria.png': 'shiny_altaria.png',
-              'audino.png': 'shiny_audino.png',
-              'banette.png': 'shiny_banette.png',
-              'beedrill.png': 'shiny_beedrill.png',
-              'blastoise.png': 'shiny_blastoise.png',
-              'blaziken.png': 'shiny_blaziken.png',
-              'camerupt.png': 'shiny_camerupt.png',
-              'charizard x.png': 'shiny_charizard_x.png',
-              'charizard y.png': 'shiny_charizard_y.png',
-              'diancie.png': 'shiny_diancie.png',
-              'galade.png': 'shiny_gallade.png',
-              'garchomp.png': 'shiny_garchomp.png',
-              'gardevoir.png': 'shiny_gardevoir.png',
-              'gengar.png': 'shiny_gengar.png',
-              'glalie.png': 'shiny_glalie.png',
-              'gyrados.png': 'shiny_gyarados.png',
-              'houndoom.png': 'shiny_houndoom.png',
-              'kanghakhan.png': 'shiny_kangaskhan.png',
-              'latias.png': 'shiny_latias.png',
-              'latios.png': 'shiny_latios.png',
-              'lopunny.png': 'shiny_lopunny.png',
-              'lucario.png': 'shiny_lucario.png',
-              'mawile.png': 'shiny_mawile.png',
-              'mega rayquaza.png': 'shiny_rayquaza.png',
-              'metagross.png': 'shiny_metagross.png',
-              'pidgeot.png': 'shiny_pidgeot.png',
-              'pinsir.png': 'shiny_pinsir.png',
-              'primal groudon.png': 'shiny_primal_groudon.png',
-              'primal kypgre.png': 'shiny_primal_kyogre.png',
-              'sabeleye.png': 'shiny_sableye.png',
-              'salamance.png': 'shiny_salamence.png',
-              'sharpedo.png': 'shiny_sharpedo.png',
-              'slowbro.png': 'shiny_slowbro.png',
-              'steelix.png': 'shiny_steelix.png',
-              'swampert.png': 'shiny_swampert.png',
-              'tyranitar.png': 'shiny_tyranitar.png',
-              'venesaur.png': 'shiny_venusaur.png',
-          }
-          for old, new in mapping.items():
-              source, target = root / old, root / new
+          additions, deletions = [], []
+          for pair in pairs.split('|'):
+              old, new = pair.split(':')
+              source = root / (old + '.png')
+              target = root / ('shiny_' + new + '.png')
               if source.exists() and target.exists():
                   raise SystemExit(f'Refusing to overwrite {target}')
-              if not source.exists() and not target.exists():
-                  raise SystemExit(f'Missing source and target: {source}')
-          for old, new in mapping.items():
-              source, target = root / old, root / new
-              if source.exists():
-                  subprocess.run(['git', 'mv', str(source), str(target)], check=True)
-      - name: Commit asset renames
-        shell: bash
-        run: |
-          if git diff --cached --quiet; then
-            echo 'No renames needed.'
-            exit 0
-          fi
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Rename shiny Mega and Primal images to shiny_pokemon filenames'
-          git push origin HEAD:main
+              if not source.exists():
+                  if target.is_file():
+                      continue
+                  raise SystemExit(f'Missing source: {source}')
+              additions.append({'path': str(target), 'contents': base64.b64encode(source.read_bytes()).decode('ascii')})
+              deletions.append({'path': str(source)})
+          if not additions:
+              print('No renames needed.')
+              raise SystemExit(0)
+          head = subprocess.check_output(['git', 'rev-parse', 'HEAD'], text=True).strip()
+          query = 'mutation($input: CreateCommitOnBranchInput!) { createCommitOnBranch(input: $input) { commit { oid url } } }'
+          payload = {'query': query, 'variables': {'input': {'branch': {'repositoryNameWithOwner': os.environ['GITHUB_REPOSITORY'], 'branchName': 'main'}, 'expectedHeadOid': head, 'message': {'headline': 'Rename shiny Mega and Primal images to shiny_pokemon filenames'}, 'fileChanges': {'additions': additions, 'deletions': deletions}}}}
+          result = subprocess.run(['gh', 'api', 'graphql', '--input', '-'], input=json.dumps(payload), text=True, capture_output=True)
+          if result.returncode:
+              raise SystemExit(result.stderr or result.stdout)
+          response = json.loads(result.stdout)
+          if response.get('errors'):
+              raise SystemExit(json.dumps(response['errors']))
+          print(response['data']['createCommitOnBranch']['commit']['url'])
