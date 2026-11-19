@@ -1,0 +1,85 @@
+name: Rename shiny Mega assets
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/rename-mega-shiny-assets.yml']
+permissions:
+  contents: write
+jobs:
+  rename:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Rename identified shiny images
+        shell: python
+        run: |
+          from pathlib import Path
+          import subprocess
+          root = Path('assets/mega_pokemon')
+          mapping = {
+              'abomosnow.png': 'shiny_abomasnow.png',
+              'absol.png': 'shiny_absol.png',
+              'agron.png': 'shiny_aggron.png',
+              'alakazam.png': 'shiny_alakazam.png',
+              'altaria.png': 'shiny_altaria.png',
+              'audino.png': 'shiny_audino.png',
+              'banette.png': 'shiny_banette.png',
+              'beedrill.png': 'shiny_beedrill.png',
+              'blastoise.png': 'shiny_blastoise.png',
+              'blaziken.png': 'shiny_blaziken.png',
+              'camerupt.png': 'shiny_camerupt.png',
+              'charizard x.png': 'shiny_charizard_x.png',
+              'charizard y.png': 'shiny_charizard_y.png',
+              'diancie.png': 'shiny_diancie.png',
+              'galade.png': 'shiny_gallade.png',
+              'garchomp.png': 'shiny_garchomp.png',
+              'gardevoir.png': 'shiny_gardevoir.png',
+              'gengar.png': 'shiny_gengar.png',
+              'glalie.png': 'shiny_glalie.png',
+              'gyrados.png': 'shiny_gyarados.png',
+              'houndoom.png': 'shiny_houndoom.png',
+              'kanghakhan.png': 'shiny_kangaskhan.png',
+              'latias.png': 'shiny_latias.png',
+              'latios.png': 'shiny_latios.png',
+              'lopunny.png': 'shiny_lopunny.png',
+              'lucario.png': 'shiny_lucario.png',
+              'mawile.png': 'shiny_mawile.png',
+              'mega rayquaza.png': 'shiny_rayquaza.png',
+              'metagross.png': 'shiny_metagross.png',
+              'pidgeot.png': 'shiny_pidgeot.png',
+              'pinsir.png': 'shiny_pinsir.png',
+              'primal groudon.png': 'shiny_primal_groudon.png',
+              'primal kypgre.png': 'shiny_primal_kyogre.png',
+              'sabeleye.png': 'shiny_sableye.png',
+              'salamance.png': 'shiny_salamence.png',
+              'sharpedo.png': 'shiny_sharpedo.png',
+              'slowbro.png': 'shiny_slowbro.png',
+              'steelix.png': 'shiny_steelix.png',
+              'swampert.png': 'shiny_swampert.png',
+              'tyranitar.png': 'shiny_tyranitar.png',
+              'venesaur.png': 'shiny_venusaur.png',
+          }
+          for old, new in mapping.items():
+              source, target = root / old, root / new
+              if source.exists() and target.exists():
+                  raise SystemExit(f'Refusing to overwrite {target}')
+              if not source.exists() and not target.exists():
+                  raise SystemExit(f'Missing source and target: {source}')
+          for old, new in mapping.items():
+              source, target = root / old, root / new
+              if source.exists():
+                  subprocess.run(['git', 'mv', str(source), str(target)], check=True)
+      - name: Commit asset renames
+        shell: bash
+        run: |
+          if git diff --cached --quiet; then
+            echo 'No renames needed.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Rename shiny Mega and Primal images to shiny_pokemon filenames'
+          git push origin HEAD:main
